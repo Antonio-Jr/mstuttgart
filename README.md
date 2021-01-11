@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat-square&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
@@ -20,6 +18,3 @@ A Full Stack developer, open source enthusiast and happy Linux user working from
   <a href="https://www.linkedin.com/in/mstuttgart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marketplace.visualstudio.com/publishers/mstuttgart" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/marketplace-yellow.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 </p>
-
-
-  
