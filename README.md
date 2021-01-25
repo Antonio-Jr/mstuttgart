@@ -1,15 +1,22 @@
 # Hello, I'm Michell Stuttgart 👋
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=afc8a0)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=afc8a0)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=afc8a0)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=afc8a0)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=afc8a0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=afc8a0)
 
-A Full Stack developer, open source enthusiast and happy Linux user working from Brazil. 
+A Full Stack developer, open source enthusiast, hobbyist game developer and happy Linux user working from Brazil. 
 
-![Michell's github stats](https://github-readme-stats.vercel.app/api?username=mstuttgart&show_icons=true&theme=vue)
+#### Learning
+
+* Game Development :video_game:
+* Pixelart :art:
+
+### Reading
+
+* [Books](https://www.skoob.com.br/estante/livros/todos/5763185)
 
 #### Where to find me
 <p>
