@@ -26,5 +26,5 @@ A Full Stack developer, open source enthusiast, hobbyist game developer and happ
   <a href="https://github.com/mstuttgart" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/mstuttgart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marketplace.visualstudio.com/publishers/mstuttgart" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/marketplace-yellow.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://mstuttgart.itch.io/" target="_blank"><img alt="Itchio" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mstuttgart.itch.io/" target="_blank"><img alt="Itchio" src="https://img.shields.io/badge/itchio-gray.svg?&style=for-the-badge&logo=itch.io&logoColor=white" /></a>
 </p>
