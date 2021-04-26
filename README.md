@@ -1,12 +1,9 @@
 # Hello, I'm Michell Stuttgart 👋
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Tools-GodotEngine-informational?style=flat-square&logo=godot-engine&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Tools-Aseprite-informational?style=flat-square&logo=aseprite&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=a6bdbd)
 
 A Full Stack developer, open source enthusiast, hobbyist game developer and happy Linux user working from Brazil. 
