@@ -20,7 +20,7 @@ A Full Stack developer, open source enthusiast, hobbyist game developer and happ
 #### Where to find me
 <p>
   <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-teal.svg?color=a6bdbd&style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
-  <a href="https://github.com/mstuttgart" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="mailto:michellstut@gmail.com" style="text-decoration:none"><img src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/mstuttgart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marketplace.visualstudio.com/publishers/mstuttgart" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/marketplace-yellow.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://michstuttgart.itch.io/" target="_blank"><img alt="Itchio" src="https://img.shields.io/badge/itchio-gray.svg?&style=for-the-badge&logo=itch.io&logoColor=white" /></a>
