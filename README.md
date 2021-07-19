@@ -15,7 +15,7 @@ A Full Stack developer, open source enthusiast, hobbyist game developer and happ
 
 #### Reading
 
-* [Books](https://www.skoob.com.br/estante/livros/todos/5763185)
+* [Skoob](https://www.skoob.com.br/perfil/mstuttgart)
 
 #### Where to find me
 <p>
