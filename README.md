@@ -1,22 +1,28 @@
 # Hello, I'm Michell Stuttgart 👋
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=a6bdbd)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=a6bdbd)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=a6bdbd)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=a6bdbd)
 
-A Full Stack developer, open source enthusiast, hobbyist game developer and happy Linux user working from Brazil. 
+A Full Stack developer, open source enthusiast, hobbyist game developer and happy Linux user working from Brazil. 🇧🇷
 
-#### Learning
+#### Currently Learning
 
-* Game Development :video_game:
+* Game Development (Godot Engine) :video_game:
 * Pixelart :art:
 * DevOps :robot:
 
-#### Reading
+#### Games
 
-* [Skoob](https://www.skoob.com.br/perfil/mstuttgart)
+Games developed by me:
+
+![https://mstuttgart.itch.io/tetrim](https://user-images.githubusercontent.com/8174740/137599764-4fa22848-0de1-490e-93b0-e3ffafeafe1d.png)
+
+![https://mstuttgart.itch.io/hostile-terraqueo](https://user-images.githubusercontent.com/8174740/137600059-4897159d-b30a-4b47-b176-5cadd5eacb63.png)
 
 #### Where to find me
 <p>
