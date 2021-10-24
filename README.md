@@ -16,18 +16,6 @@ A Full Stack developer, open source enthusiast, hobbyist game developer and happ
 * Pixelart :art:
 * DevOps :robot:
 
-#### Games
-
-Games developed by me:
-
-<p>
-<a href="https://mstuttgart.itch.io/tetrim" target="_blank"><img alt="Blog" src="https://user-images.githubusercontent.com/8174740/137599764-4fa22848-0de1-490e-93b0-e3ffafeafe1d.png" /></a>
-</p>
-
-<p>
-<a href="https://mstuttgart.itch.io/hostile-terraqueo" target="_blank"><img alt="Blog" src="https://user-images.githubusercontent.com/8174740/137600059-4897159d-b30a-4b47-b176-5cadd5eacb63.png" /></a>
-</p>
-
 #### Where to find me
 <p>
   <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-teal.svg?color=a6bdbd&style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
