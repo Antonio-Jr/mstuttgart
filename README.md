@@ -1,12 +1,12 @@
 # Hello, I'm Michell Stuttgart 👋
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=a6bdbd)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=a6bdbd)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=8ec07c)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=8ec07c)
 
 A Full Stack developer, open source enthusiast, hobbyist game developer and happy Linux user working from Brazil. 🇧🇷
 
@@ -18,7 +18,7 @@ A Full Stack developer, open source enthusiast, hobbyist game developer and happ
 
 #### Where to find me
 <p>
-  <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-teal.svg?color=a6bdbd&style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
+  <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-teal.svg?color=8ec07c&style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
   <a href="mailto:michellstut@gmail.com" style="text-decoration:none"><img src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/mstuttgart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marketplace.visualstudio.com/publishers/mstuttgart" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/marketplace-yellow.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
