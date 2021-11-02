@@ -20,5 +20,5 @@ A Backend Python developer, open source enthusiast, hobbyist game developer, hus
   <a href="https://www.linkedin.com/in/mstuttgart" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-teal.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marketplace.visualstudio.com/publishers/mstuttgart" target="_blank"><img alt="Marketplace" src="https://img.shields.io/badge/marketplace-teal.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
   <a href="https://mstuttgart.itch.io" target="_blank"><img alt="Itchio" src="https://img.shields.io/badge/itchio-teal.svg?&style=for-the-badge&logo=itch.io&logoColor=white" /></a>
-    <a href="https://www.instagram.com/mstuttgart/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-teal?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.instagram.com/michstuttgart/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-teal?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
