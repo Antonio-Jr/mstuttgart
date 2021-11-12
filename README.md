@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=eeeeee)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=eeeeee)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat-square&logo=postgresql&logoColor=white&color=eeeeee)
 ![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=eeeeee)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=eeeeee)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=eeeeee)
