@@ -1,17 +1,22 @@
 # Hello, I'm Michell Stuttgart 👋
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=dddddd)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=dddddd)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=dddddd)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=dddddd)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=dddddd)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=eeeeee)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=eeeeee)
+![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=eeeeee)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=eeeeee)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=eeeeee)
 
 A Backend Python developer, open source enthusiast, hobbyist game developer, husband, christian and happy Linux user working from Brazil. 🇧🇷
 
 #### Currently Learning
 
-* ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=dddddd) 
-* ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=dddddd)
+Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my study projects.
+
+* ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=eeeeee) 
+* ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=eeeeee)
+* ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=eeeeee)
+* ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=eeeeee)
+
 
 #### Where to find me
 <p>
