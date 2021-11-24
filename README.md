@@ -18,8 +18,11 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 * ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=eeeeee)
 * ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=eeeeee)
 
+### Currently Reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
-#### Where to find me
+#### Where to Find Me
 <p>
   <a href="https://mstuttgart.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-gray.svg?style=for-the-badge&logo=www&logoColor=afc8a0" /></a>
   <a href="mailto:michellstut@gmail.com"><img src = "https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
