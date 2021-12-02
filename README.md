@@ -1,11 +1,11 @@
 # Hello, I'm Michell Stuttgart 👋
 
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Database-Postgresql-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat-square&logo=postgresql&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=yellow)
 
 A Backend Python developer, open source enthusiast, hobbyist game developer, husband, christian and happy Linux user working from Brazil. 🇧🇷
 
