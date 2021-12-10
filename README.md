@@ -1,11 +1,11 @@
 # Hello, I'm Michell Stuttgart 👋
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat-square&logo=postgresql&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=78BCC4)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=78BCC4)
+![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat-square&logo=postgresql&logoColor=white&color=78BCC4)
+![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=78BCC4)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=78BCC4)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=78BCC4)
 
 A Backend Python developer, open source enthusiast, hobbyist game developer, husband, christian and happy Linux user working from Brazil. 🇧🇷
 
@@ -13,10 +13,10 @@ A Backend Python developer, open source enthusiast, hobbyist game developer, hus
 
 Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my study projects.
 
-* ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=yellow) 
-* ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=yellow)
-* ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=yellow)
-* ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=yellow)
+* ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=78BCC4) 
+* ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=78BCC4)
+* ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=78BCC4)
+* ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=78BCC4)
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
