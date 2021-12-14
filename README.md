@@ -18,6 +18,8 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 * ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=78BCC4)
 * ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=78BCC4)
 
+:rocket: Working currently on [PomodoroJS](https://github.com/mstuttgart/pomodorojs). I'm using this personal project to practice Javascript, HTML and CSS.
+
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Ikigai: Os cinco passos para encontrar seu propósito de vida e ser mais feliz](https://www.goodreads.com/review/show/4353975535?utm_medium=api&utm_source=rss) by Ken Mogi (⭐️3.42)
