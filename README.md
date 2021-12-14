@@ -22,7 +22,7 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Ikigai: Os cinco passos para encontrar seu propósito de vida e ser mais feliz](https://www.goodreads.com/review/show/4353975535?utm_medium=api&utm_source=rss) by Ken Mogi (⭐️3.42)
+- [Me Poupe! 10 passos para nunca mais faltar dinheiro no seu bolso](https://www.goodreads.com/review/show/4388625471?utm_medium=api&utm_source=rss) by Nathalia Arcuri (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 #### Where to Find Me
