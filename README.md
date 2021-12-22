@@ -22,7 +22,7 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Me Poupe! 10 passos para nunca mais faltar dinheiro no seu bolso](https://www.goodreads.com/review/show/4388625471?utm_medium=api&utm_source=rss) by Nathalia Arcuri (⭐️4)
+- [Quem pensa enriquece: o legado: Versão de volso](https://www.goodreads.com/review/show/4403370513?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️3.92)
 <!-- GOODREADS-LIST:END -->
 
 #### Where to Find Me
