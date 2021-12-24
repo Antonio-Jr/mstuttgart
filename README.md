@@ -18,8 +18,6 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 * ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=78BCC4)
 * ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=78BCC4)
 
-:rocket: Working currently on [PomodoroJS](https://github.com/mstuttgart/pomodorojs). I'm using this personal project to practice Javascript, HTML and CSS.
-
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Quem pensa enriquece: o legado: Versão de volso](https://www.goodreads.com/review/show/4403370513?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️3.92)
