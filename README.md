@@ -20,7 +20,7 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Quem pensa enriquece: O legado](https://www.goodreads.com/review/show/4408808615?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️4)
+- [Quem pensa enriquece: O legado](https://www.goodreads.com/review/show/4408808615?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 #### Where to Find Me
