@@ -20,6 +20,7 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
+- [Manual do pequeno investidor em ações](https://www.goodreads.com/review/show/4507806034?utm_medium=api&utm_source=rss) by Fábio Almeida (⭐️4.17)
 - [Quem pensa enriquece: O legado](https://www.goodreads.com/review/show/4408808615?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
