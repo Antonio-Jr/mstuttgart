@@ -21,7 +21,6 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
 - [Manual do pequeno investidor em ações](https://www.goodreads.com/review/show/4507806034?utm_medium=api&utm_source=rss) by Fábio Almeida (⭐️4.17)
-- [Tom Clancys The Division - Broken Dawn (Em Portugues do Brasil)](https://www.goodreads.com/review/show/4636526428?utm_medium=api&utm_source=rss) by Alex Irvine (⭐️)
 <!-- GOODREADS-LIST:END -->
 
 #### Where to Find Me
