@@ -20,7 +20,7 @@ Please, visit my [oficina](https://github.com/mstuttgart/oficina) to see my stud
 
 #### Currently Reading
 <!-- GOODREADS-LIST:START -->
-- [Manual do pequeno investidor em ações](https://www.goodreads.com/review/show/4507806034?utm_medium=api&utm_source=rss) by Fábio Almeida (⭐️4.17)
+- [Manual do pequeno investidor em ações](https://www.goodreads.com/review/show/4507806034?utm_medium=api&utm_source=rss) by Fábio Almeida (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 #### Where to Find Me
